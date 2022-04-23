@@ -2,6 +2,7 @@
 local Icon = require(game:GetService("ReplicatedStorage").Icon)
 local icon = Icon.new()
 icon:setLabel("Hazbin Stuff")
+icon:setImage(6389218652)
 
 icon:bindToggleItem(Sus)
 icon.deselected:Connect(function()

@@ -1,1 +1,2 @@
-# HazbinTopBar
+# Hazbin Top Bar
+Releasing Soon
